@@ -1,0 +1,10 @@
+h1{
+    color: orange;   
+}
+
+.inputs{
+    display:flex;
+    width:250px;
+    flex-direction: column;
+    padding-bottom: 10px;
+}
